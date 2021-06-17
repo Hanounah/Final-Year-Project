@@ -1,0 +1,76 @@
+am /2021-04-22_02-08-39 /intext:hi parent directory MP3 -xxx -html -htm -php -shtml -opendivx -md5 -md5sumsWelcome am
+am /2021-04-22_02-08-52 /intext:hel parent directory MP3 -xxx -html -htm -php -shtml -opendivx -md5 -md5sumsWelcome am
+am /2021-04-22_09-02-16 /intext:sami yousef parent directory MP3 -xxx -html -htm -php -shtml -opendivx -md5 -md5sumsWelcome am
+am /2021-04-22_09-16-12 /indexof:klcc
+am /2021-04-22_09-16-21 /intext:sami yousef parent directory DVDRip -xxx -html -htm -php -shtml -opendivx -md5 -md5sums
+am /2021-04-22_09-16-42 /intext:adobe  intext:”parent directory” intext:”[EXE]” 
+am /2021-04-22_09-16-52 /intext:nansi ajram parent directory MP3 -xxx -html -htm -php -shtml -opendivx -md5 -md5sumsWelcome am
+am /2021-04-22_09-17-25 /intext:iium forms  filetype:doc OR filetype:docx iium forms
+am /2021-04-22_09-18-26 /intext:iium forms  filetype:pdf iium forms
+am /2021-04-22_09-18-30 /intext:iium forms  filetype:pptx OR filetype:ppt iium forms
+am /2021-04-27_09-39-08 /intext:sami yousef parent directory MP3 -xxx -html -htm -php -shtml -opendivx -md5 -md5sumsWelcome am
+am /2021-04-27_09-39-43 /intext:photoshop intext:”parent directory” intext:”[EXE]” 
+am /2021-04-27_09-40-14 /indexof:klcc
+am /2021-04-27_09-40-58 /intext:iium form  filetype:doc OR filetype:docx iium form
+am /2021-04-27_09-41-39 /intext:tom and jerry parent directory mp4 mkv avi -xxx -html -htm -php -shtml -opendivx -md5 -md5sums
+am /2021-04-27_09-46-23 /intext:tom and jerry parent directory mp4 mkv avi -xxx -html -htm -php -shtml -opendivx -md5 -md5sums
+am /2021-04-30_13-21-31 /intext:omar diab parent directory MP3 -xxx -html -htm -php -shtml -opendivx -md5 -md5sumsWelcome am
+am /2021-04-30_13-22-13 /intext:sami yousef parent directory MP3 -xxx -html -htm -php -shtml -opendivx -md5 -md5sumsWelcome am
+am /2021-04-30_13-23-14 /intext:yes yes bath song parent directory MP3 -xxx -html -htm -php -shtml -opendivx -md5 -md5sumsWelcome am
+am /2021-04-30_13-26-59 /intitle:baby shark parent directory MP3 -xxx -html -htm -php -shtml -opendivx -md5 -md5sumsWelcome am
+am /2021-04-30_13-28-39 /inurl:baby shark parent directory MP3 -xxx -html -htm -php -shtml -opendivx -md5 -md5sumsWelcome am
+am /2021-04-30_13-46-40 /intitle:baby shark] parent directory MP3 -xxx -html -htm -php -shtml -opendivx -md5 -md5sumsWelcome am
+am /2021-04-30_13-49-05 /intitle:johny johny yes papa parent directory MP3 -xxx -html -htm -php -shtml -opendivx -md5 -md5sumsWelcome am
+am /2021-04-30_13-50-09 /intext:yatabtab parent directory MP3 -xxx -html -htm -php -shtml -opendivx -md5 -md5sumsWelcome am
+am /2021-04-30_13-52-44 /intext:yatabtab parent directory mp3 -xxx -html -htm -php -shtml -opendivx -md5 -md5sums
+am /2021-04-30_13-54-22 /intext:nancy ajram parent directory mp3 -xxx -html -htm -php -shtml -opendivx -md5 -md5sums
+am /2021-04-30_14-00-54 /intext:baby shark children song parent directory mp3 -xxx -html -htm -php -shtml -opendivx -md5 -md5sums
+am /2021-04-30_14-02-14 /intext:jastin paper parent directory mp3 -xxx -html -htm -php -shtml -opendivx -md5 -md5sums
+am /2021-04-30_14-03-14 /intext:justin bieber parent directory mp3 -xxx -html -htm -php -shtml -opendivx -md5 -md5sums
+am /2021-04-30_14-04-13 /intext:baby shark parent directory mp4 mkv avi -xxx -html -htm -php -shtml -opendivx -md5 -md5sums
+am /2021-04-30_14-06-32 /intext:iium forms  filetype:extpdf iium forms
+am /2021-04-30_14-07-39 /intext:iium forms  ext:pdf iium forms
+am /2021-04-30_14-08-30 /intext:iium forms  filetype:pdf iium forms
+am /2021-04-30_14-09-08 /intext:adobe xd intext:”parent directory” intext:”[EXE]” 
+am /2021-04-30_14-11-42 /intext:illustrator intext:”parent directory” intext:”[EXE]” 
+am /2021-04-30_14-16-23 /intext:adobe animation parent directory exe -xxx -html -htm -php -shtml -opendivx -md5 -md5sums
+am /2021-04-30_14-18-34 /intext:adobe illustrator parent directory exe -xxx -html -htm -php -shtml -opendivx -md5 -md5sums
+am /2021-04-30_14-20-10 /intitle:adobe photoshop parent directory exe -xxx -html -htm -php -shtml -opendivx -md5 -md5sums
+am /2021-04-30_14-23-11 /intitle:video maker parent directory exe -xxx -html -htm -php -shtml -opendivx -md5 -md5sums
+am /2021-04-30_14-24-26 /intitle:obs studio parent directory exe -xxx -html -htm -php -shtml -opendivx -md5 -md5sums
+am /2021-04-30_14-25-48 /intitle:star uml parent directory exe -xxx -html -htm -php -shtml -opendivx -md5 -md5sums
+am /2021-04-30_14-26-47 /inurl:star uml parent directory exe -xxx -html -htm -php -shtml -opendivx -md5 -md5sums
+am /2021-04-30_14-59-56 /intitle:puppgy parent directory exe -xxx -html -htm -php -shtml -opendivx -md5 -md5sums
+am /2021-04-30_15-02-36 /intitle:angrybird parent directory exe -xxx -html -htm -php -shtml -opendivx -md5 -md5sums
+am /2021-04-30_15-08-29 /intitle:petrun parent directory exe -xxx -html -htm -php -shtml -opendivx -md5 -md5sums
+am /2021-04-30_15-09-51 /intitle:petrun intext:”parent directory” intext:”[EXE]” 
+am /2021-04-30_15-10-29 /intitle:puppy games intext:”parent directory” intext:”[EXE]” 
+am /2021-04-30_15-12-38 /intext:petrun intext:”parent directory” intext:”[EXE]” 
+am /2021-05-02_23-19-33 /intext:yatbtab parent directory mp3 -xxx -html -htm -php -shtml -opendivx -md5 -md5sums
+am /2021-05-02_23-19-55 /intext:baby shark parent directory mp3 -xxx -html -htm -php -shtml -opendivx -md5 -md5sums
+am /2021-05-02_23-22-44 /intext:bom diggy parent directory mp3 -xxx -html -htm -php -shtml -opendivx -md5 -md5sums
+am /2021-05-02_23-24-36 /intext:ya nabi salam alayka parent directory mp3 -xxx -html -htm -php -shtml -opendivx -md5 -md5sums
+am /2021-05-02_23-29-34 /intitle:adobe photoshop parent directory exe -xxx -html -htm -php -shtml -opendivx -md5 -md5sums
+am /2021-05-02_23-33-09 /intext:adobe photoshop intext:”parent directory” intext:”[EXE]” 
+am /2021-05-02_23-35-32 /intext:baby shark parent directory mp4 mkv avi -xxx -html -htm -php -shtml -opendivx -md5 -md5sums
+am /2021-05-02_23-38-37 /intext:babay shark parent directory mp4 -xxx -html -htm -php -shtml -opendivx -md5 -md5sums
+am /2021-05-02_23-39-08 /intext:tom and jerry parent directory mp4 -xxx -html -htm -php -shtml -opendivx -md5 -md5sums
+am /2021-05-02_23-50-09 /intext:maher parent directory mp4 -xxx -html -htm -php -shtml -opendivx -md5 -md5sums
+am /2021-05-02_23-50-19 /intext:maher parent directory mp4 -xxx -html -htm -php -shtml -opendivx -md5 -md5sums
+am /2021-05-02_23-55-24 /indexof:klcc
+am /2021-05-02_23-57-47 /indexof:klcc
+am /2021-05-03_00-00-22 /intext:maher parent directory mp4 -xxx -html -htm -php -shtml -opendivx -md5 -md5sums
+am /2021-05-03_00-02-13 /intext:maher parent directory mp4 -xxx -html -htm -php -shtml -opendivx -md5 -md5sums
+am /2021-05-03_00-02-47 /intext:maher parent directory mp4 -xxx -html -htm -php -shtml -opendivx -md5 -md5sums
+am /2021-05-03_00-03-42 /intext:maher parent directory mp4 -xxx -html -htm -php -shtml -opendivx -md5 -md5sums
+am /2021-05-03_00-04-06 /intext:tom and jerry parent directory mp4 -xxx -html -htm -php -shtml -opendivx -md5 -md5sums
+am /2021-05-03_00-05-06 /intext:tom and jerry parent directory mp4 -xxx -html -htm -php -shtml -opendivx -md5 -md5sums
+am /2021-05-03_00-07-28 /intext:tom and jerry parent directory mp4 -xxx -html -htm -php -shtml -opendivx -md5 -md5sums
+am /2021-05-03_00-08-27 /intext:toma and jerry parent directory mp4 -xxx -html -htm -php -shtml -opendivx -md5 -md5sums
+am /2021-05-03_00-09-40 /intext:tom and jerry parent directory mp4 -xxx -html -htm -php -shtml -opendivx -md5 -md5sums
+am /2021-05-03_00-10-46 /intext:tom and jerry parent directory mp4 -xxx -html -htm -php -shtml -opendivx -md5 -md5sums
+am /2021-05-03_00-11-08 /intext:frozen parent directory mp4 -xxx -html -htm -php -shtml -opendivx -md5 -md5sums
+am /2021-05-03_00-12-43 /intext:the blacklist parent directory mp4 -xxx -html -htm -php -shtml -opendivx -md5 -md5sums
+am /2021-05-03_00-15-56 /intext:friends parent directory mp4 -xxx -html -htm -php -shtml -opendivx -md5 -md5sums
+am /2021-05-03_00-17-54 /intext:stupid monkey parent directory mp4 -xxx -html -htm -php -shtml -opendivx -md5 -md5sums
+am /2021-05-03_00-18-55 /intext:happy feet parent directory mp4 -xxx -html -htm -php -shtml -opendivx -md5 -md5sums

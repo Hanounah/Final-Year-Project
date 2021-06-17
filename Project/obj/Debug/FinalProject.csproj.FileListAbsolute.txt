@@ -1,0 +1,48 @@
+C:\Users\amhan\Documents\FYP_2 - Copy\Profile1\bin\Debug\Profile1.exe.config
+C:\Users\amhan\Documents\FYP_2 - Copy\Profile1\bin\Debug\Profile1.exe
+C:\Users\amhan\Documents\FYP_2 - Copy\Profile1\bin\Debug\Profile1.pdb
+C:\Users\amhan\Documents\FYP_2 - Copy\Profile1\obj\Debug\FinalProject.csprojAssemblyReference.cache
+C:\Users\amhan\Documents\FYP_2 - Copy\Profile1\obj\Debug\Profile1.Form1.resources
+C:\Users\amhan\Documents\FYP_2 - Copy\Profile1\obj\Debug\Profile1.Form2.resources
+C:\Users\amhan\Documents\FYP_2 - Copy\Profile1\obj\Debug\Profile1.Properties.Resources.resources
+C:\Users\amhan\Documents\FYP_2 - Copy\Profile1\obj\Debug\FinalProject.csproj.GenerateResource.cache
+C:\Users\amhan\Documents\FYP_2 - Copy\Profile1\obj\Debug\FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\amhan\Documents\FYP_2 - Copy\Profile1\obj\Debug\Profile1.exe
+C:\Users\amhan\Documents\FYP_2 - Copy\Profile1\obj\Debug\Profile1.pdb
+C:\Users\amhan\Documents\FYP_2 - Copy\Profile1\obj\Debug\FinalProject.Properties.Resources.resources
+C:\Users\amhan\Documents\FYP_2 - Copy - Copy\Profile1\bin\Debug\FinalProject.exe.config
+C:\Users\amhan\Documents\FYP_2 - Copy - Copy\Profile1\bin\Debug\FinalProject.exe
+C:\Users\amhan\Documents\FYP_2 - Copy - Copy\Profile1\bin\Debug\FinalProject.pdb
+C:\Users\amhan\Documents\FYP_2 - Copy - Copy\Profile1\obj\Debug\FinalProject.csprojAssemblyReference.cache
+C:\Users\amhan\Documents\FYP_2 - Copy - Copy\Profile1\obj\Debug\FinalProject.Form1.resources
+C:\Users\amhan\Documents\FYP_2 - Copy - Copy\Profile1\obj\Debug\FinalProject.Form2.resources
+C:\Users\amhan\Documents\FYP_2 - Copy - Copy\Profile1\obj\Debug\FinalProject.Properties.Resources.resources
+C:\Users\amhan\Documents\FYP_2 - Copy - Copy\Profile1\obj\Debug\FinalProject.csproj.GenerateResource.cache
+C:\Users\amhan\Documents\FYP_2 - Copy - Copy\Profile1\obj\Debug\FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\amhan\Documents\FYP_2 - Copy - Copy\Profile1\obj\Debug\FinalProject.exe
+C:\Users\amhan\Documents\FYP_2 - Copy - Copy\Profile1\obj\Debug\FinalProject.pdb
+C:\Users\amhan\Documents\FYP_2 - Copy - Copy\Profile1\obj\Debug\FinalProject.Form3.resources
+M:\2020-2021(fourth year)\FYP-2\FYP_2- Final\Profile1\obj\Debug\FinalProject.csprojAssemblyReference.cache
+M:\2020-2021(fourth year)\FYP-2\FYP_2- Final\Profile1\obj\Debug\FinalProject.Form1.resources
+M:\2020-2021(fourth year)\FYP-2\FYP_2- Final\Profile1\obj\Debug\FinalProject.Form2.resources
+M:\2020-2021(fourth year)\FYP-2\FYP_2- Final\Profile1\obj\Debug\FinalProject.Form3.resources
+M:\2020-2021(fourth year)\FYP-2\FYP_2- Final\Profile1\obj\Debug\FinalProject.Properties.Resources.resources
+M:\2020-2021(fourth year)\FYP-2\FYP_2- Final\Profile1\obj\Debug\FinalProject.csproj.GenerateResource.cache
+M:\2020-2021(fourth year)\FYP-2\FYP_2- Final\Profile1\obj\Debug\FinalProject.csproj.CoreCompileInputs.cache
+M:\2020-2021(fourth year)\FYP-2\FYP_2- Final\Profile1\obj\Debug\FinalProject.exe
+M:\2020-2021(fourth year)\FYP-2\FYP_2- Final\Profile1\obj\Debug\FinalProject.pdb
+M:\2020-2021(fourth year)\FYP-2\FYP_2- Final\Profile1\bin\Debug\FinalProject.exe.config
+M:\2020-2021(fourth year)\FYP-2\FYP_2- Final\Profile1\bin\Debug\FinalProject.exe
+M:\2020-2021(fourth year)\FYP-2\FYP_2- Final\Profile1\bin\Debug\FinalProject.pdb
+M:\2020-2021(fourth year)\FYP-2\FYP_2- Final\Project\bin\Debug\FinalProject.exe.config
+M:\2020-2021(fourth year)\FYP-2\FYP_2- Final\Project\bin\Debug\FinalProject.exe
+M:\2020-2021(fourth year)\FYP-2\FYP_2- Final\Project\bin\Debug\FinalProject.pdb
+M:\2020-2021(fourth year)\FYP-2\FYP_2- Final\Project\obj\Debug\FinalProject.csprojAssemblyReference.cache
+M:\2020-2021(fourth year)\FYP-2\FYP_2- Final\Project\obj\Debug\FinalProject.Form1.resources
+M:\2020-2021(fourth year)\FYP-2\FYP_2- Final\Project\obj\Debug\FinalProject.Form2.resources
+M:\2020-2021(fourth year)\FYP-2\FYP_2- Final\Project\obj\Debug\FinalProject.Form3.resources
+M:\2020-2021(fourth year)\FYP-2\FYP_2- Final\Project\obj\Debug\FinalProject.Properties.Resources.resources
+M:\2020-2021(fourth year)\FYP-2\FYP_2- Final\Project\obj\Debug\FinalProject.csproj.GenerateResource.cache
+M:\2020-2021(fourth year)\FYP-2\FYP_2- Final\Project\obj\Debug\FinalProject.csproj.CoreCompileInputs.cache
+M:\2020-2021(fourth year)\FYP-2\FYP_2- Final\Project\obj\Debug\FinalProject.exe
+M:\2020-2021(fourth year)\FYP-2\FYP_2- Final\Project\obj\Debug\FinalProject.pdb
