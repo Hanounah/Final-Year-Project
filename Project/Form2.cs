@@ -10,7 +10,7 @@ namespace FinalProject
 {
     public partial class Form2 : Form
     {
-        // this is to set the music 
+        // this is to set the background music 
         System.Media.SoundPlayer sp = new System.Media.SoundPlayer("Children song.wav");
         
         string username = Form1.SetValueForText1;
@@ -22,7 +22,7 @@ namespace FinalProject
             this.listBox3.DrawItem += new System.Windows.Forms.DrawItemEventHandler(listBox3_DrawItem);
             this.listBox3.SelectedIndexChanged += new System.EventHandler(listBox3_SelectedIndexChanged_1);
 
-           // the cursor at music section
+           // placing the cursor at music section
             this.ActiveControl = txt_Music;
             txt_Music.Focus();
 
@@ -163,9 +163,8 @@ namespace FinalProject
            // if user enter a valid serach keyword
             else
             {
-           // string moviequery = "parent directory DVDRip  -xxx -html -htm -php -shtml -opendivx -md5 -md5sums";
         string moviequery = "parent directory mp4 -xxx -html -htm -php -shtml -opendivx -md5 -md5sums";
-                System.Diagnostics.Process.Start("https://www.google.com/search?num=5&q=" + Encoder("intext:" + txt_Video.Text) + (" ") + Encoder(moviequery));
+                System.Diagnostics.Process.Start("https://www.google.com/search?num=20&q=" + Encoder("intext:" + txt_Video.Text) + (" ") + Encoder(moviequery));
                 writeTXT("intext:" + txt_Video.Text + (" ") + moviequery);
             }
         }
@@ -228,7 +227,7 @@ namespace FinalProject
                     formatequery = (" filetype:" +  "pdf" + " " + txt_Format.Text);
                     
                     System.Diagnostics.Process.Start("https://www.google.com/search?num=20&q=" + Encoder(formatequery));
-                    writeTXT("intext:" + txt_Format.Text + (" ") + formatequery);//////Why
+                    writeTXT("intext:" + txt_Format.Text + (" ") + formatequery);
                 }
 
                 if (rad_PPX.Checked)
@@ -285,7 +284,7 @@ namespace FinalProject
 
         private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
-            // This is to change background from comobox
+            // This is to change background from comobox list
             if (comboBox1.SelectedItem.Equals("Flower"))
             {
             this.BackgroundImage = Properties.Resources.Flower;
@@ -594,7 +593,7 @@ namespace FinalProject
             }
 
         }
-        // this is when items slelcted in recommended links
+        // this is when items selected in recommended links
         private void listBox3_SelectedIndexChanged_1(object sender, EventArgs e)
         {
             if (listBox3.SelectedItems.Contains("Movie"))
@@ -608,7 +607,7 @@ namespace FinalProject
                 while ((line = file2.ReadLine()) != null)
                 {
                     listBox2.Items.Add(line);
-                    //counter++;
+                    
                 }
                 file2.Close();
             }
@@ -625,7 +624,7 @@ namespace FinalProject
                     while ((line = file3.ReadLine()) != null)
                     {
                         listBox2.Items.Add(line);
-                        //counter++;
+                        
                     }
 
 
@@ -641,7 +640,7 @@ namespace FinalProject
                     while ((line = file4.ReadLine()) != null)
                     {
                         listBox2.Items.Add(line);
-                        //counter++;
+                        
                     }
                     file4.Close();
                 }
@@ -655,7 +654,7 @@ namespace FinalProject
                     while ((line = file4.ReadLine()) != null)
                     {
                         listBox2.Items.Add(line);
-                        //counter++;
+                        
                     }
                     file4.Close();
                 }
@@ -669,7 +668,7 @@ namespace FinalProject
                     while ((line = file7.ReadLine()) != null)
                     {
                         listBox2.Items.Add(line);
-                        //counter++;
+                        
                     }
                     file7.Close();
                 }
@@ -683,7 +682,7 @@ namespace FinalProject
                     while ((line = file5.ReadLine()) != null)
                     {
                         listBox2.Items.Add(line);
-                        //counter++;
+                        
                     }
                     file5.Close();
                 }
@@ -706,7 +705,7 @@ namespace FinalProject
             btn_Music.BackColor = Color.Gold;
         }
 
-        // this to mute or play the music
+        // this is to mute or to play the music
         private void checkBox1_CheckedChanged(object sender, EventArgs e)
         {
                 if (checkBox1.Checked)
@@ -784,7 +783,7 @@ namespace FinalProject
             e.Graphics.DrawString(listBox.Items[e.Index].ToString(), e.Font, myBrush, e.Bounds);
             e.DrawFocusRectangle();
         }
-        // this is to display the data in table 
+        // this is to display the data in a table 
         private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
             dataGridView1.AutoResizeColumns();
@@ -828,5 +827,8 @@ namespace FinalProject
         }
     }
     }
+   
+
+
    
 
